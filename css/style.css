@@ -140,7 +140,7 @@ iframe {
 }
 
 #details.flex {
-	justify-content: center;
+	justify-content: space-between;;
 }
 
 .f1 {
