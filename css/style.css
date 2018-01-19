@@ -139,6 +139,10 @@ iframe {
 	margin: 10px 0;
 }
 
+#details.flex {
+	justify-content: center;
+}
+
 .f1 {
 	flex: 1;
 }
